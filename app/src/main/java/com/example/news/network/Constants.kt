@@ -1,0 +1,1 @@
+package com.example.news.networkobject Constants {    const val API_KEY = "230264abd85649b0b6475877b2617c4f"}

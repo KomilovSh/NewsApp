@@ -1,0 +1,1 @@
+package com.example.news.networkobject Common {    private var BASE_URL = "https://newsapi.org/v2/"    val retrofitService: RetrofitService        get() = RetrofitClient.getRetrofit(BASE_URL).create(RetrofitService::class.java)}
